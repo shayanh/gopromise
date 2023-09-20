@@ -1,7 +1,7 @@
 # Go Promise
 
 Go Promise is a simple library implementing promises in Go. 
-Inspired by https://github.com/chebyrash/promise/blob/master/promise.go
+Inspired by https://github.com/chebyrash/promise.
 
 ```go
 package main
